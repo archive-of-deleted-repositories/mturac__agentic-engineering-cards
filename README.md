@@ -1,6 +1,8 @@
 # agentic-engineering-cards
 
-> Real-world benchmark cards for AI coding agents — prove it, don't just ship code.
+> Real-world benchmark cards for AI coding agents — prove tests, side effects, and rollback readiness.
+
+**Topics:** `ai-agents` · `benchmarking` · `agentic-ai` · `coding-agents` · `evaluation` · `llm` · `software-engineering`
 
 ![Screenshot](docs/screenshot.png)
 
@@ -22,4 +24,8 @@ npm test
 
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE).
+
+## Author
+
+**Mehmet Turac** — [github.com/mturac](https://github.com/mturac)
